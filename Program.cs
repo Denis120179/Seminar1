@@ -21,7 +21,7 @@ else
 Напишите программу, которая принимает на вход три числа и выдает максимальное из этих чисел
 */
 
-Console.WriteLine("Введите первое число:  ");
+/*Console.WriteLine("Введите первое число:  ");
 int a = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите второе число:  ");
 int b = int.Parse(Console.ReadLine()!);
@@ -48,4 +48,20 @@ else
     {
         Console.WriteLine($"{c} максимальное число");
     }
-} 
+} */
+
+/*
+Задача 3
+Напишите программу, которая на вход принимает число и выдает, является ли число четным
+*/
+
+/*Console.WriteLine("ВВедите число:  ");
+int a = int.Parse(Console.ReadLine()!);
+if(a%2 == 0)
+{
+    Console.WriteLine($"{a} четное число");
+}
+else
+{
+    Console.WriteLine($"{a} нечетное число");
+}*/
